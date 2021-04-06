@@ -8,5 +8,6 @@ The motivation for this project is to perform a prognosis/prediction on individu
 
 DISCLAIMER: This work is intended for research and learning purposes rather than real-world use case of prognosis.
 
-This work is also available on Google Colab. To view the work, please hit the button below:
+This work is also available on Google Colab. To view the work, please hit the following button:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k3nnywilliam/stroke-prediction/blob/master/stroke-prediction-nb.ipynb)
